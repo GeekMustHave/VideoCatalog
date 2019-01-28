@@ -1,0 +1,58 @@
+Please excuse the audio I am testing out a Blue Yeti and I had the gain up too much, better than the first time when I didn't have the damn thing plugged in.
+
+One of the design elements of my lab is that it needs to be portable.
+
+This carry case, which is an unused camera case, includes my test instruments which right now are kinda basic.
+
+This was a lazy Sunday build using exercise mats as the foam for the custom cutouts.
+
+TIP: Use a really sharp knife and change the blades, the exercise foam really dulls them quickly.
+
+Shout out to Julian Lett for inspiration and humor.
+
+https://www.youtube.com/user/julius256
+
+GMH TD-V26 Radio postbag, Cute little radios
+
+https://www.youtube.com/watch?v=1cUGc...
+
+GMH-008 LED Tester
+
+https://www.youtube.com/watch?v=YuKun...
+
+Microsoft Wireless keyboard and intehrated trackpad
+
+https://www.amazon.com/Microsoft-Wire...
+
+Contents of the Instruments Case
+-------------------------------------
+- DS0112a - Touchscreen oscilloscope, with recording function
+- DDS and HS Function signal generator
+- Peakmeter PM18C Multimeter with power sensor, true RMS
+- Innova 3320 Auto Ranging Multimeter
+- TD-V26 Audio testing, audio generation, audio amplifier
+   (Not shown in parts image, but reviewed in a previous GMH video)
+  https://www.youtube.com/watch?v=1cUGc...
+- TD-V26 FM Radio with audio out
+- Electronic component identifier and tester
+- Led tester, reviewed in a previous video
+   https://www.youtube.com/watch?v=6O6s5...  
+- Microsoft wireless keyboard with integrated touchpad
+- Portable lab power supply (Home Built) 1v to 25v 3a
+   (Project Build video in the works)
+- Portable soldering fume extruder (Home built)
+  (Shown in parts but removed for final kit to conserve space)
+-DISko USB Oscilloscope and 16 channel logic analyzer
+ (To be replaced with newer technology)
+- USB Volt/Amp/Watt meter
+- DT-1130 Electromagnetic radiation detector
+   (Not in parts image)
+   (Reviewed in upcoming video)
+- USB Power bank
+- Various multimeter, power, signal and testing cables and jumpers 
+
+Any suggestions and feedback are appreciated.
+
+Give a Geek a hand and (Subscribe) to my channel.  Thanks. 
+
+Visit my blog at http://GeekMustHave.com for more articles and neat technology stuff

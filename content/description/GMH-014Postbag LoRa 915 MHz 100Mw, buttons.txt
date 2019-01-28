@@ -1,0 +1,42 @@
+This video is a postbag of buttons, LoRa transceivers, USB soldering iron and an UNO with Display.
+
+Please excuse the length and editing, this is my first attempt at a postbag with more items than should be covered in a single video.  I will split up large postbags in the future into multiple videos.
+
+Correction: Thank you to https://www.youtube.com/user/linagee for pointing out an error: Andreas Spiess attempt was 200 Km or 124.7 miles, not 2000 meters.  
+
+UXCELL JST Connectors
+
+No longer available from the vendor I bought the last of them from them
+https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F10Pairs-10cm-Long-JST-SM-2Pins-Plug-Male-to-Female-Wire-Connector%2F32614677770.html&event=video_description&v=R1jIgYeNB30&redir_token=FC-Ws6z2IAjfwqr6DNufOW3SJoV8MTU0ODc4ODY2OUAxNTQ4NzAyMjY5
+
+MCX Male to BNC Female Adapter pigtail adapter 
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F10Pairs-10cm-Long-JST-SM-2Pins-Plug-Male-to-Female-Wire-Connector%2F32614677770.html&event=video_description&v=R1jIgYeNB30&redir_token=FC-Ws6z2IAjfwqr6DNufOW3SJoV8MTU0ODc4ODY2OUAxNTQ4NzAyMjY5
+
+Tactile square push buttons 12mm x 12mm with various color caps
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2FUXCELL-5-Pcs-Momentary-Tact-Tactile-Push-Button-Switch-12-X-12Mm-X-10Mm-4-Pin%2F32787216885.html&event=video_description&v=R1jIgYeNB30&redir_token=FC-Ws6z2IAjfwqr6DNufOW3SJoV8MTU0ODc4ODY2OUAxNTQ4NzAyMjY5
+
+LoRa Radio Modules 915 MHz 100mW RF wireless
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2FNew-2pcs-868MHz-4Km-100mW-sx1276-chip-Lora-long-range-RF-Wireless-transmitter-receiver-Module-LoRa1276%2F32338274153.html&event=video_description&v=R1jIgYeNB30&redir_token=FC-Ws6z2IAjfwqr6DNufOW3SJoV8MTU0ODc4ODY2OUAxNTQ4NzAyMjY5
+
+Keyestudio UNO R3 development board
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F2016-New-keyestudio-UNO-R3-development-board-USB-cable-compatible-for-arduino%2F32248072684.html&event=video_description&v=R1jIgYeNB30&redir_token=FC-Ws6z2IAjfwqr6DNufOW3SJoV8MTU0ODc4ODY2OUAxNTQ4NzAyMjY5
+
+Keyestudio display shield 20 char by 4 lines White on blue
+
+https://www.aliexpress.com/item/Free-...
+
+Andreas Spiess, the guy with the Swiss accent.
+
+#120 LoRa / LoRaWAN World Record Attempt. Will I succeed?
+
+https://www.youtube.com/watch?v=adhWIo-7gr4
+
+USB Soldering Iron 5VDC 8 watts
+
+Julian Letts review on the soldering iron
+
+https://www.youtube.com/watch?v=FUIOQywDLr4
