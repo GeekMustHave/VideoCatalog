@@ -1,6 +1,6 @@
-= Movie Catalog Requirements
+= Video Catalog Requirements
 John Schuster <John.schuster@PhoenixWorkgroup.com>
-v2.1b, 01/28/2019: Doco Type
+v2.1b, 01/28/2019: Specification
 :Author: John HR Schuster
 :Company: Phoenix Learning Labs
 :toc: left
@@ -12,15 +12,106 @@ v2.1b, 01/28/2019: Doco Type
 :experimental:
 :source-hightlighter: coderay
 :icons: font
-:docdir: */documents
+:docdir: ./doco
 :github: https://github.com/GeekMustHave/Github repository
 :linkattrs:
 :seclinks:
 :title-logo-image: ./images/create-doco_gmh-blogArticle-cover.png
 
-Preamble paragraph goes here
+Requirements for as simple a solution as possible for a PHP movie catalog web page.
 
 == Introduction
+
+GeekMustHave is a combination of website blog and YouTube channel.
+
+Blog: https://GeekMustHave.com
+
+YouTube: https://YouTube/c/GeekMustHave
+
+GMH needs a Video Catalog page that allows for display of Video Catalog with playback and download.
+
+Not all of GMH video work is on YouTube.  Some of it is related only to a blog post or an response from other web sites that are connected to GeekMust have.
+
+The solution requested is a PHP based solution which will run in a directory under the WordPress directory on the GMH Blog.  The WorkPress site is run on a co-hosted server managed by BlueCloud.
+
+All WordPress plugin's are far too complex and require databases and login procedures.
+The Video Catalog requested needs to be as simple as possible.
+
+== Requirements
+
+. As simple a solution as possible
+. File based only, no databases
+. Show an alphabetical list of videos (MP4) from a folder based on video file name
+. Show an associated description text from another folder
+. Turn text that represents a hyperlink into a clickable link into a new page
+. Not all videos will have descriptions
+. Allow for search on Video Name or text description
+. Avoid using code that pre-loads all of the videos on the page
+. Use thumbnail PNG images for video catalog page from another folder
+. File names may contain spaces
+. Not all videos will have thumbnails, missing thumbnail replace with standard PNG
+(Thumbnail Pending)
+. Allow for 5 videos on a page with paging controls on bottom of page
+. Allow the number of videos on page to be set within PHP code
+. Prefer a single PHP file solution
+
+
+== Structure
+
+The file structure for the Video Catalog will be maintained outside of the Video Catalog PHP page.
+
+There is an automated process that will automatically copy the proper set of files for a video into the proper directories.
+
+The file names for the Description, Thumbnail and Video will all be identical, with exception of the file extension.
+
+.File Extensions
+. txt - Description
+. png - Thumbnail
+. mp4 - Video
+
+=== Folder / File Structure
+
+The following is what the folder / file structure will be for the Video Catalog.
+
+.Video Catalog Folder/File
+image::folder-file.png[Video Catalog Folder/File, align='center']
+ 
+== Video Catalog Page Requirements
+
+This are the requirements for the single Video Catalog page.
+
+. The flat button style is preferred.
+. The paging controls can be different as long as they have
+.. First page
+.. Previous Page
+.. Page x of y
+.. Next Page
+.. Last Page
+. Tooltip opens when user hovers over a button
+. Download allows for the video to be downloaded
+. Clicking on the Video thumbnail plays the video 
+.. Video player should allow for full screen and an escape from full screen
+.. Video player should allow for quickly moving around the video
+.. Video Player should have a Play/Pause button or control, space bar is good for this
+. The YouTube ICON would transfer the user to the GeekMustHave YouTubeChannel in a New page
+
+=== Video Page Prototype
+
+The following is an example of the layout for the single Video Catalog page.
+
+.Video Catalog Page
+image::video-page.png[Video Catalog Page, align='center']
+ 
+== Contact
+
+Contact Information.
+
+Mail: john.schuster@phoenixworkgroup.com
+
+Mail: Geek<MustHave@PhoenixWorkgroup.com
+
+
+
 
 
 
